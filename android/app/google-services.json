@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "787801609353",
+    "project_id": "skripsibaru-6c5a5",
+    "storage_bucket": "skripsibaru-6c5a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787801609353:android:031ce1e523b9d0ab6a6258",
+        "android_client_info": {
+          "package_name": "com.example.aplikasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787801609353-b5udjem7om3p4nefuqtmsavednm4fs3p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aplikasi",
+            "certificate_hash": "09911bf7a9c6809a3435793196ca8d0708e6dff9"
+          }
+        },
+        {
+          "client_id": "787801609353-hbpcqfdpimvckheh70q9cjvatuch30fp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5Wfeyx3OudVFJUzfaln0CEP1EZ8BWweA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787801609353-hbpcqfdpimvckheh70q9cjvatuch30fp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
